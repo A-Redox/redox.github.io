@@ -4,15 +4,14 @@
 
 ### Text
 HotspotPanoramaOverlayTextImage_9D23DDCA_8BA6_2DBD_41B7_D0092D598C19.text = Avant de commencer la visite, nous vous conseillons fortement de suivre l'ordre dans lequel les flèches apparaissent !
-HotspotPanoramaOverlayTextImage_990A090B_8B7E_32B3_41DF_38EB514DEDA6.text = Ce bâtiment est appelé "l'extension"
 HotspotPanoramaOverlayTextImage_9CD4424D_8BA6_56B7_41A3_4DEE911D1E13.text = Photo de la Promotion 2021-2022
+HotspotPanoramaOverlayTextImage_96C891A7_874B_21F9_41CC_8D530B0A2C4B.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9F548117_8B9F_D2D3_41CD_A70686E61F29.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9504F62A_874E_E2CB_41C6_B9AD8B0EC3BF.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_93CD89B6_873B_E1DB_41DF_0B8DFE7B285F.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9BC17EA5_8B66_6FF7_41E0_460D927B87A6.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9AD58EFD_8B63_EF57_41C7_7DEA3D675B06.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9820D242_8B66_D6AD_41DD_8D9F7B28BAB2.text = Retour en arrière
-HotspotPanoramaOverlayTextImage_96C891A7_874B_21F9_41CC_8D530B0A2C4B.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9911FD04_8B63_D2B5_4184_020C9B90A57D.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_983502DF_8B66_F753_41DE_026470F2B4A7.text = Retour en arrière
 HotspotPanoramaOverlayTextImage_9986C74C_8B6E_3EB5_41D2_F7F3AFC78E81.text = Retour en arrière
@@ -33,7 +32,6 @@ imlevel_947916E0_874D_2377_41DB_28292942CAA7.url = media/panorama_95ADCE07_8745_
 imlevel_9F2A753F_8BA2_72D3_41D9_3444EFE896CE.url = media/panorama_973A1136_87FE_DA00_418C_44FDBB350874_HS_m83hdxld_fr.png
 imlevel_9F29D50F_8BA2_72B3_4192_078224E2DB54.url = media/panorama_97BEEE0B_874D_22C9_41B6_37139BAEF5AC_HS_4wehh83i_fr.png
 imlevel_9F322676_8BA2_7F55_41B3_2427341F3AFA.url = media/panorama_98C0DAB2_8B62_57ED_41A1_3283773960FD_HS_sr2y3kv8_fr.png
-imlevel_9F280596_8BA2_7DD5_418F_629F388E9482.url = media/panorama_98EE044A_8B62_52BD_41C2_4249CB5BFF6D_HS_febgagna_fr.png
 imlevel_9E59F132_8BBD_D2ED_41C8_EC3B3D683738.url = media/panorama_98EE044A_8B62_52BD_41C2_4249CB5BFF6D_HS_sypup36s_fr.png
 imlevel_9F29256F_8BA2_7D73_41DD_4495A23E0627.url = media/panorama_99D09501_8B62_32AF_41BC_19F9068A24B6_HS_jvd8hk58_fr.png
 imlevel_9E5E614A_8BBD_D2BD_41D4_696F9F75A277.url = media/panorama_9A871F9B_8B62_EDD3_41D5_75448A8055DB_HS_vgsrigsq_fr.png
@@ -62,8 +60,8 @@ panorama_9C24B058_8BA6_735D_41D7_4130C3B3BF3D.label = pano
 media_937AF99A_875B_61CB_41A8_5FA42F071F3C.label = preview
 
 ### Video
-videores_9293788A_8BA2_D3BD_41DF_80D5E1F8AB93.url = media/media_937AF99A_875B_61CB_41A8_5FA42F071F3C_fr.mp4
-videores_9293788A_8BA2_D3BD_41DF_80D5E1F8AB93.posterURL = media/media_937AF99A_875B_61CB_41A8_5FA42F071F3C_poster_fr.jpg
+videores_90EA0E2A_8FA7_EEFD_41D1_DC567AF7AFBB.url = media/media_937AF99A_875B_61CB_41A8_5FA42F071F3C_fr.mp4
+videores_90EA0E2A_8FA7_EEFD_41D1_DC567AF7AFBB.posterURL = media/media_937AF99A_875B_61CB_41A8_5FA42F071F3C_poster_fr.jpg
 
 ## Popup
 
@@ -71,10 +69,11 @@ videores_9293788A_8BA2_D3BD_41DF_80D5E1F8AB93.posterURL = media/media_937AF99A_8
 htmlText_98E51176_8B66_3555_41DA_32FC7EB289BB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Amphithéatre le bugey</SPAN></DIV></BODY></HTML></div>
 htmlText_946B529F_8745_E3C9_41C4_C230E1C12825.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Bibliothèque universitaire</SPAN></DIV></BODY></HTML></div>
 htmlText_96F6E0AD_874D_1FC8_41C6_FEFDA0FA4DC0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Bureau du BIGG BDE ( Bureau Des Étudiants )</SPAN></DIV></BODY></HTML></div>
-htmlText_98180AFE_8B66_D755_4166_C4FDDB844B0D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salle IN0.00, c'est la salle d'anglais</SPAN></DIV></BODY></HTML></div>
-htmlText_953BE698_874B_63D7_416B_5600E3FBFA64.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salle TD IN0.03 ( IN = informatique le premier zero indique que la salle est situé au rez-de-chaussee )</SPAN></DIV></BODY></HTML></div>
+htmlText_9630EB23_877B_22F9_41B4_E37512565A74.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Bureau du service informatique située en IN1.04.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salles TP ( Travaux Pratiques ) du département informatique : IN1.05 à 1.09 ( IN = informatique, le premier chiffre indique l'étage ou est située la salle, ici au premier ).</SPAN></DIV></BODY></HTML></div>
+htmlText_950A6988_8CE2_55BD_41DB_484F1521603A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ce bâtiment est appelé "l'extension"</SPAN></DIV></BODY></HTML></div>
+htmlText_98180AFE_8B66_D755_4166_C4FDDB844B0D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salle IN0.00, cette salle est utilisée pour l'anglais</SPAN></DIV></BODY></HTML></div>
 htmlText_95547A56_8745_635B_41C4_360DE34EE333.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salles TD ( Travaux dirigés ) du département informatique</SPAN></DIV></BODY></HTML></div>
-htmlText_9630EB23_877B_22F9_41B4_E37512565A74.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salles TP ( Travaux Pratiques ) du département informatique</SPAN></DIV></BODY></HTML></div>
+htmlText_953BE698_874B_63D7_416B_5600E3FBFA64.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salles TD IN0.03 à IN0.09 ( IN = informatique, le premier chiffre indique l'étage ou est située la salle, ici au rez-de-chaussee )</SPAN></DIV></BODY></HTML></div>
 htmlText_96F9069C_877B_E3CF_41DD_A1F90583C085.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Salles des professeurs</SPAN></DIV></BODY></HTML></div>
 htmlText_95EFDF20_877B_22F8_41D1_78225B60F963.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Secrétariat</SPAN></DIV></BODY></HTML></div>
 
