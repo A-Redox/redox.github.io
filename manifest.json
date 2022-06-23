@@ -1,8 +1,4 @@
 {
- "name": "Untitled 1",
- "start_url": "index.html",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "name": "IUT",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF"
 }
