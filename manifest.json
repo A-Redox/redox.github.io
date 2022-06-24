@@ -1,5 +1,4 @@
 {
- "name": "IUT",
  "icons": [
   {
    "type": "image/png",
@@ -37,8 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "IUT",
  "background_color": "#FFFFFF",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF"
 }
